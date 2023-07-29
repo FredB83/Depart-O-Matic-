@@ -19,23 +19,23 @@ secteurs = {
 }
 
 tech = {
-    "SUD" : ["BEGUE","LLAMAS","BRUGUIER","CECI","GARCIA"],
+    "SUD" : [""],
 
-    "SUD_OUEST" :["FONTES","ANNETTE"],
+    "SUD_OUEST" :[""],
 
-    "NORD" : ["BERTHE","DURCZOK","TROCHET"],
+    "NORD" : [""],
 
-    "G_EST" : ["MULLER","RAGALD"],
+    "G_EST" : [""],
 
-   "EST2": ["MOREL","MOREIRA"],
+   "EST2": [""],
 
-    "EST" : ["GAUTHIER", "FRACCHIOLLA"," AROLES", "GRANGE"],
+    "EST" : [""],
 
-    "OUES": ["VERGNAULT", "RUYTERS", "FICHEPOIL", "LIMOUSIN", "BEAUSSARD"],
+    "OUES": [""],
 
-    "NORMANDIE" :["LE MATT","SAILLARD"],
+    "NORMANDIE" :[""],
 
-    "IDF" :["HOUD", "SARASIN" ,"BEVERNAGE" ,"CORVISIER ","TROCH"],
+    "IDF" :[""],
 
 }
 
