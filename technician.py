@@ -38,16 +38,3 @@ tech = {
     "IDF" :[""],
 
 }
-
-
-# n = int(input("Entrez votre departement : \n"))
-
-# for secteur,zone in secteurs.items():
-#    for i in zone :
-#         if i == n:
-#            print(f"C'est le secteur {secteur} ! ")
-#            valeur = secteur
-#            technicians = tech[secteur]
-           
-# print(valeur)
-# print(technicians)
